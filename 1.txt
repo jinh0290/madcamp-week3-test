@@ -2,3 +2,5 @@
 bye를 쓰고 싶었지만 error가 남
 
 요거슨 develop에서 만든 것
+
+요것도 develop
